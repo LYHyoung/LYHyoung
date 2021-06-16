@@ -43,6 +43,8 @@ Yehyeong Lee
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LYHyoung)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=dark)](https://git.io/streak-stats)
 
 
