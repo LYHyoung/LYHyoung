@@ -38,12 +38,12 @@ Yehyeong Lee
 
 🏷️ Cards
 ---------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYHyoung&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYHyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYHyoung&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYHyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=default)](https://git.io/streak-stats)
 
 
 📭 Contact
