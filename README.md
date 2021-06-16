@@ -28,7 +28,7 @@ Yehyeong Lee
   + 비행기 자동예매 프로그램
   + 날씨(미세먼지 등), 핫 토픽 뉴스 스크래핑 프로그램
 + MIPS Single Cycle CPU Implementation
-+ [Algorithm Study](https://github.com/LYHyoung/BaekJoon)
++ [Algorithm Study](https://github.com/LYHyoung/BaekJoon) : BOJ solve using C++, Python
 
 
 ⌨️ Online Judge
