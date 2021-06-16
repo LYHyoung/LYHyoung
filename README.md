@@ -31,8 +31,8 @@ Yehyeong Lee
 
 ⌨️ Online Judge
 ----------------
-+ BOJ : LYHyound: (https://www.acmicpc.net/user/lyh4186)
-  + solved.ac : LYHyoung: (https://solved.ac/profile/lyh4186)
++ BOJ : LYHyoung\https://www.acmicpc.net/user/lyh4186
+  + solved.ac : LYHyoung\https://solved.ac/profile/lyh4186
 
 
 🏷️ Cards
