@@ -27,6 +27,7 @@ Yehyeong Lee
 + 웹 스크래핑 프로젝트
   + 비행기 자동예매 프로그램
   + 날씨(미세먼지 등), 핫 토픽 뉴스 스크래핑 프로그램
++ MIPS Single Cycle CPU Implementation
 
 
 ⌨️ Online Judge
