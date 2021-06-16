@@ -8,6 +8,8 @@ Yehyeong Lee (LYHyoung)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=dark)](https://git.io/streak-stats)
+
 
 Activity
 --------
