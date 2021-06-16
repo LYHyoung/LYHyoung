@@ -12,7 +12,7 @@ Yehyeong Lee
 
 🧾 Activity
 ------------
-+ (2017 ~ ) 광운대학교 중앙동아리 ROLAB
++ (2017 ~ ) 광운대학교 중앙동아리 ROLAB(Robotic Laboratory)
   + (2018) 광운대학교 중앙동아리 ROLAB 교육부장
   + (2021) 광운대학교 중앙동아리 ROLAB 홍보부장
 
