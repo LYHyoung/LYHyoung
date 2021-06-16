@@ -9,9 +9,15 @@ Yehyeong Lee (LYHyoung)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=dark)](https://git.io/streak-stats)
 
 
+School
+------
++ (2017 ~ ) 광운대학교 컴퓨터정보공학부
++ (2020) 광운대학교 1학기 복학
+
+
 Activity
 --------
-+ (2017 ~) 광운대학교 중앙동아리 ROLAB
++ (2017 ~ ) 광운대학교 중앙동아리 ROLAB
   + (2018) 광운대학교 중앙동아리 ROLAB 교육부장
   + (2021) 광운대학교 중앙동아리 ROLAB 홍보부장
 
