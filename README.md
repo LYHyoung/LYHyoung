@@ -40,12 +40,12 @@ Yehyeong Lee
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYHyoung&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYHyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=LYHyoung)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=dark)](https://git.io/streak-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186)
 
 
 📭 Contact
