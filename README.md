@@ -14,19 +14,14 @@ Yehyeong Lee
 ------------
 + (2017 ~ ) 광운대학교 중앙동아리 ROLAB(Robotic Laboratory)
   + (2018) 광운대학교 중앙동아리 ROLAB 교육부장
-  + (2021) 광운대학교 중앙동아리 ROLAB 홍보부장
 
 
 💡 Project
 ----------
-+ 기온 및 습도에 따라 자동으로 닫히는 스마트창문
++ 스마트창문
 + Proxy Server
 + 게임 프로젝트
-  + 장애물 맞추기
-  + 똥 피하기
 + 웹 스크래핑 프로젝트
-  + 비행기 자동예매 프로그램
-  + 날씨(미세먼지 등), 헤럴드 영어 지문 스크래핑
 + MIPS Single Cycle CPU Implementation
 + [Algorithm Study](https://github.com/LYHyoung/BaekJoon) : BOJ solve using C++, Python
 
