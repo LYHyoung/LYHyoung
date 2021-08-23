@@ -17,7 +17,6 @@ Yehyeong Lee
 + 게임 프로젝트
 + 웹 스크래핑 프로젝트
 + MIPS Single Cycle CPU Implementation
-+ [Algorithm Study](https://github.com/LYHyoung/BaekJoon) : BOJ solve using C++, Python
 
 
 ⌨️ Online Judge
