@@ -4,15 +4,9 @@ Yehyeong Lee
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLYHyoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-🏫 School
-----------
-+ (2017 ~ ) 광운대학교 컴퓨터정보공학부
-+ (2020) 광운대학교 1학기 복학
-
-
 🧾 Activity
 ------------
-+ (2017 ~ ) 광운대학교 중앙동아리 ROLAB(Robotic Laboratory)
++ (2017 ~ ) 광운대학교 중앙동아리 ROLAB(Robotic Laboratory) 34기
   + (2018) 광운대학교 중앙동아리 ROLAB 교육부장
 
 
