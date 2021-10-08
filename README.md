@@ -12,11 +12,11 @@ Yehyeong Lee
 
 💡 Project
 ----------
-+ 스마트창문
++ Smart Window
 + Proxy Server
-+ 게임 프로젝트
-+ 웹 스크래핑 프로젝트
-+ MIPS Single Cycle CPU Implementation
++ Game Project
++ Chatbot
++ Web Scrapping Project
 
 
 ⌨️ Online Judge
@@ -28,9 +28,6 @@ Yehyeong Lee
 🏷️ Cards
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYHyoung&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYHyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LYHyoung&theme=default)](https://git.io/streak-stats)
 
