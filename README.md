@@ -6,16 +6,18 @@ Yehyeong Lee
 <!--
 🧾 Activity
 ------------
-+ (2017 ~ ) 광운대학교 중앙동아리 ROLAB(Robotic Laboratory) 34기
++ (2017 ~ ) 광운대학교
   + (2018) 광운대학교 중앙동아리 ROLAB 교육부장
+  + (2021) 광운대학교 중앙동아리 ROLAB 부회장
 
++ (2022 ~ ) 고려대학교 ISSLAB 학부인턴
 
 💡 Project
 ----------
-+ Smart Window
++ Smart Window (IOT)
 + Proxy Server
 + Game Project
-+ Chatbot
++ Enterprise Chatbot
 + Web Scrapping Project
 -->
 
