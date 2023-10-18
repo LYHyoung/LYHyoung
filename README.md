@@ -25,6 +25,8 @@ Yehyeong Lee
 + BOJ : [LYHyoung](https://www.acmicpc.net/user/lyh4186)
   + solved.ac : [LYHyoung](https://solved.ac/profile/lyh4186)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh4186)](https://solved.ac/lyh4186/)
+
 
 🏷️ Cards
 ---------
