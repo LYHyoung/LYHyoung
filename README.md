@@ -12,14 +12,8 @@ Yehyeong Lee
   + <2022> 고려대학교 정보시스템보안연구실 인턴
 
 + (2023.9 ~ ) 고려대학교 정보시스템보안연구실 석사
+  + <2024> (주)티유브이슈드코리아 현장실습
 
-💡 Project
-----------
-+ Smart Window (IOT)
-+ Proxy Server
-+ Game Project
-+ Enterprise Chatbot
-+ Web Scrapping Project
 
 ⌨️ Online Judge
 ----------------
